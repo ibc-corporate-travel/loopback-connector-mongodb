@@ -25,6 +25,7 @@
   "dependencies": {
     "async": "^1.0.0",
     "debug": "^2.1.1",
+    "lodash": "^4.17.5",
     "loopback-connector": "^2.2.0",
     "mongodb": "~2.1.21",
     "strong-globalize": "^2.6.0"
